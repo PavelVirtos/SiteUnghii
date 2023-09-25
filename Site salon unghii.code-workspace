@@ -1,0 +1,10 @@
+{
+  "folders": [
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "fullcalendar-6.1.8"
+  }
+}
